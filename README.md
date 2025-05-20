@@ -64,3 +64,20 @@ da próxima instrução no pipeline, inserindo uma bolha (NOP) no estágio EX e 
 ![image](https://github.com/user-attachments/assets/ce88f6b7-4de1-438a-835a-5218fd820cd5)
 
 
+## Unidade de Lógica Aritmética
+
+A Unidade de Lógica Aritmética suporta as seguintes operações:
+
+- Adição
+- Subtração
+- Multiplicação
+- Divisão
+- Comparação de igualdade
+- AND lógico
+- OR lógico
+- Comparação menor que
+- Deslocamento lógico à esquerda
+- Deslocamento lógico á direita
+
+
+![image](https://github.com/user-attachments/assets/4af57600-f958-45b0-b2ae-d774b6341ffe)
